@@ -1,3 +1,19 @@
+Run server.js to start the server.
+What the program does :
+ - Connection with the MongoDb database
+ - Following REST requests :
+  * GET /movies/populate 
+  * GET /movies 
+  * GET /movies/:id
+  * GET /movies/search 
+  * POST /movies/:id
+- Some GraphQl requests
+
+
+
+
+
+
 # DENZEL
 
 > The must-watch Denzel's movies
